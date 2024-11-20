@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeff Lu!
-- 👀 I’m interested in ML and OOP
+- 👀 I’m loveee ML and OOP
 - 🌱 I’m currently studying Computer Science at the University of Toronto
 - ⚡ I'm experienced with MERN and Python
 
