@@ -1,3 +1,4 @@
-👋 Hi, I’m Jeff Lu! 
-
 🎓 Computer Science Student at the University of Toronto
+
+🥇 6x Hackathon Winner
+
